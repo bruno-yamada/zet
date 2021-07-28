@@ -21,8 +21,8 @@ Disaster Recovery
 
 Scalability
 
-- either scaling out or up (horizontal or vertical)
-- is about the ability to increase|decrease resources to handle a demand
+- scaling out 
+- is about the __ability__ to increase resources to handle a higher workload
 
 Elasticity
 
@@ -31,7 +31,7 @@ Elasticity
   decrease resources as the demand itself increases or decreases
 - a service can have high scalability, but not high elasticity, meaning you
   might be able to scale it out as needed, but it might not be possible to keep
-  scaling in and out as the demands shifts
+  scaling in and out as the demands shifts rapidly
 - Some interpret scalability as a long term strategic thing, while elasticity is
   more about short-term tactical usage
 
