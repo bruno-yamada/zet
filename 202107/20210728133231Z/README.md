@@ -1,5 +1,7 @@
 #  Key takeaways from the devops reports for 2020
 
+>  https://www.bmc.com/content/dam/bmc/collateral/third-party/2020-Upskilling-Report-FINAL.pdf
+
 Generally, we have pretty advanced technology, but it is important to also improve soft skills, as they are just as important
 
 Digitalization is said to be the Fourth Industrial Revolution
@@ -20,10 +22,10 @@ Compared to 2019:
   - soft skills
 - certifications are more important for contractors than it is for other roles, such as IC, C, or Mgmt levels
 
-pg 17
+pg 25
+
 
 reference:
-- https://www.bmc.com/content/dam/bmc/collateral/third-party/2020-Upskilling-Report-FINAL.pdf
 - https://assets.red-gate.com/solutions/database-devops/state-of-database-devops-2021.pdf
 - https://media.webteam.puppet.com/uploads/2021/07/Puppet-State-of-DevOps-Report-2021.pdf
 
