@@ -1,7 +1,9 @@
 # Sample nginx configuration with JSON log output
 
-When sending logs to some aggregators it might facilitate to have the logs printed as JSON instead of the traditional format, as dealing with JSON would make query easier on those platforms, still, when querying logs in the application through more direct ways, you might have to leverage jq
-
+When sending logs to some aggregators it might facilitate to have the logs
+printed as JSON instead of the traditional format, as dealing with JSON would
+make query easier on those platforms, still, when querying logs in the
+application through more direct ways, you might have to leverage jq.
 
 nginx.conf:
 ```
