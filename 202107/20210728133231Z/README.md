@@ -68,11 +68,48 @@ Obstacles o DevOps implementation (ordered)
 
 Automation is key to improve software delivery and Ops performance (CI/CD)
 
-pg15
-
-
 ## Puppet report
 > https://media.webteam.puppet.com/uploads/2021/07/Puppet-State-of-DevOps-Report-2021.pdf
+
+- Evolved, highly developed SRE/Devops teams have a clear understanding of the
+responsability of their team
+- Cultural blockers are what mostly hold back DevOps advancements
+
+
+DevOps might have reached a point where teams aren't even saying they are doing
+DevOps anymore, it is just how they work
+
+## Extra takes
+> The Three Ways: Principles underpinnin DevOps: https://itrevolution.com/the-three-ways-principles-underpinning-devops/
+
+1. Systems Thinking
+  - understand flow of work (eg.business > dev > ops > client)
+  - don't allow defects to be move downstream or backwards
+  - seek to increase flow
+    - need to track re-work to find bugs and opportunities for optimization
+  - never sacrifice local optimization for global degradation
+2. Amplify Feedback loops
+  - Once automation is in-place you will start finding opportunities for more
+    feedback loops
+  - With more iterations, you promote better understanding of the system, reduce
+    toll and make sure it becomes progressively better
+3. Culture of Continual Experimentation and Learning
+  - promoting a culture that experiments, takes risks and learns from failure
+    - calculated risks with proper risk assessments and recovery plans
+    - will inevitably increase system resillience
+  - repetition and practice will become mastery
+
+__Personal takeways:__
+
+To help DevOps adoption, understand the complete flow of the work, and define
+it, put automation where possible, in order to increase feedback loops and
+gradually improve the pipelines, promote a culture of risk taking and learning
+from failure, will promote proper ownership by the team, keep good track of work done
+to be able to assess bottlenecks, opportunities for improvement and so forth
+
+pg7
+
+## Actionable takeaways
 
 > tags: devops; sre; survey;
 
