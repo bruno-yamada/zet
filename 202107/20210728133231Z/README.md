@@ -79,8 +79,12 @@ responsability of their team
 DevOps might have reached a point where teams aren't even saying they are doing
 DevOps anymore, it is just how they work
 
+pg7
+
 ## Extra takes
-> The Three Ways: Principles underpinnin DevOps: https://itrevolution.com/the-three-ways-principles-underpinning-devops/
+
+### The Three Ways: Principles underpinnin DevOps
+> ref: https://itrevolution.com/the-three-ways-principles-underpinning-devops/
 
 1. Systems Thinking
   - understand flow of work (eg.business > dev > ops > client)
@@ -107,7 +111,6 @@ gradually improve the pipelines, promote a culture of risk taking and learning
 from failure, will promote proper ownership by the team, keep good track of work done
 to be able to assess bottlenecks, opportunities for improvement and so forth
 
-pg7
 
 ## Actionable takeaways
 
