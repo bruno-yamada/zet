@@ -79,7 +79,30 @@ responsability of their team
 DevOps might have reached a point where teams aren't even saying they are doing
 DevOps anymore, it is just how they work
 
-pg7
+> "DevOps is whatever you do to bridge friction created by silos, and all the rest
+> is engineering"
+__Patrick Debois, ADvisor, Snyk (Formerly DevOpsDays)__
+
+Historical movement: SysAdmins become devops, with an increase in salary
+attached, and now DevOps are becoming SREs, with the same income increase
+happening again.
+
+Known definitions for "DevOps":
+- team with end-to-end responsabilities (Dev and Ops together)
+- team who supports Dev team with release automation, deployment pipelines, and
+  developer tooling
+- team who develops and mantain things developers don't want to care about:
+  infrastructure, container fabrics, monitoring, metrics.
+- team who encourages DevOps practices across the organization
+
+> The lack of clarity of amount of ways DevOps teams can work is a barrier for
+> performance, as, for a fact, having clear reponsabilities  helps to increase
+> the team performance, and also help those who interact with team to understand
+> exactly what the DevOps team is supposed to do. So moving away from the
+> "DevOps" teams to more clear roles is advised, such as: "Platform
+> Engineering", "Tooling Team", "Observability Team".
+
+pg 14
 
 ## Extra takes
 
@@ -113,6 +136,8 @@ to be able to assess bottlenecks, opportunities for improvement and so forth
 
 
 ## Actionable takeaways
+
+TODO
 
 > tags: devops; sre; survey;
 
