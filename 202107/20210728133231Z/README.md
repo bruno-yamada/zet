@@ -81,7 +81,7 @@ DevOps anymore, it is just how they work
 
 > "DevOps is whatever you do to bridge friction created by silos, and all the rest
 > is engineering"
-__Patrick Debois, ADvisor, Snyk (Formerly DevOpsDays)__
+_Patrick Debois, ADvisor, Snyk (Formerly DevOpsDays)_
 
 Historical movement: SysAdmins become devops, with an increase in salary
 attached, and now DevOps are becoming SREs, with the same income increase
@@ -102,7 +102,54 @@ Known definitions for "DevOps":
 > "DevOps" teams to more clear roles is advised, such as: "Platform
 > Engineering", "Tooling Team", "Observability Team".
 
-pg 14
+For high-adoption teams, the biggest blockers are:
+- legacy architecture
+- lack of skilled workers
+both of which would fade out as time goes by
+
+Use of internal platforms has a high correlation with DevOps evolution within a
+firm
+
+> Create guardrails that reduce burden and enable agility
+
+__Four Fundamental Topologies__
+- Stream-aligned team: Aligned to a flow of work from (usually) a segment of the
+  business domain.
+- Enabling team: Helps a stream-aligned team to overcome obstacles. Also detects
+  missing capabilities.
+- Complicated subsystem team: Where significant mathematics/calculation or
+  hard-to-find niche technical expertise is needed full-time.
+- Platform team: A grouping of other team types that provide a compelling internal
+  product to accelerate delivery by stream-aligned teams.
+
+> Most of the companies I have contact with, I have filled a role in the
+> Stream-aligned team
+
+__Three team interaction modes__
+There are only three ways in which teams should interact:
+- Collaboration: Working together for a defined period of time to discover new
+  things (APIs, practices, technologies, etc.).
+- X-as-a-Service: One team provides, one team consumes something “as a Service.”
+- Facilitation: One team helps and mentors another team.
+
+Known high performant teams tend to have teams focused on tooling, and teams
+focused on developing internal tools, end-to-end
+
+It is not just about automation
+- cannot focus on automation to the detriment of team interaction, fast flow,
+  collaboration and optimization
+- usually easier to focus on technical stuff such as automation instead of
+  discussing the points above which requires talking to larger scopes
+- automate repetitive tasks, and make as much as you can self-service
+
+Public clouds made provisioning of resources much quicker, but it goes further
+than just Infrastructure-As-Code for a server, we need to leverage the cloud by
+making as much as we possible be self-service, automating other repetitive tasks
+such as config management, monitoring, overall trying to reduce cognitive load
+while empowering development teams. As, besides being able to quickly provision
+resources, the cloud also allows to easily do management tasks on them.
+
+pg25
 
 ## Extra takes
 
