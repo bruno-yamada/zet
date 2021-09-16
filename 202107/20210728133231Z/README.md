@@ -149,7 +149,28 @@ such as config management, monitoring, overall trying to reduce cognitive load
 while empowering development teams. As, besides being able to quickly provision
 resources, the cloud also allows to easily do management tasks on them.
 
-pg25
+DevOps and Security experience usually equals to higher salary
+
+Reaching higher levels of DevOps adoption is usually attached to having
+successfully implemented a platform team approach, with well-defined team
+responsabilities and interactions, buy-in from managers and users, strong
+automation practice and willingness to accept risk.
+
+Among highest blockers for breaching from mid-high to high level:
+- insufficient feedback loops
+- unclear responsabilities
+- failure to share best practices
+notice none of the above is necessarily technical
+
+Among highest blockers for breaching from mid-low to high level:
+- skill shortage
+- legacy architecture
+- resistance to change
+- lack of automation
+mid-low teams already have some DevOps practices in-place but are still facing
+many of the challenges of those with low level DevOps adoption
+
+pg28
 
 ## Extra takes
 
