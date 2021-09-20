@@ -1,4 +1,4 @@
-# Stop thinking of yourself as a "product expert"
+# Don't think of yourself as a "product expert"
 
 These has been bugging me for years, people can end up in a situation where they
 thinkg of themselves as more a product expect, like:
