@@ -1,7 +1,7 @@
 # Don't think of yourself as a "product expert"
 
-These has been bugging me for years, people can end up in a situation where they
-thinkg of themselves as more a product expect, like:
+These has been point for discussion, people can end up in a situation where they
+thinkg of themselves as more of a product expert, like:
 - I'm a AWS Architect
 - I'm a ReactJS developer
 - I'm a Jenkins expert
