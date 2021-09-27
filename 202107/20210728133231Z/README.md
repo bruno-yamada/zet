@@ -170,7 +170,23 @@ Among highest blockers for breaching from mid-low to high level:
 mid-low teams already have some DevOps practices in-place but are still facing
 many of the challenges of those with low level DevOps adoption
 
-pg28
+> Stating blockerrs as "cultural" can lead to inaction as people think of
+> culture as "immutable" or very hard to change
+
+> Highly evolved firms make heavier use of internal platforms for their engineers,
+> enabling developers to access authentication (62 percent), container
+> orchestration (60 percent), and service-to-service authentication (53 percent),
+> tracing and observability (49 percent), and logging request (47 percent)
+> services via self-service
+
+> The last thing you want is to have your developer team ask you for
+> something and you don’t have it for them. It’s essential to think of
+> the things you build as products, you should always have a proof
+> of concept. This is core to DevOps, even if your proof of concept
+> fails, you built it, you tried it, you learned.
+> _Katharine Yi, Senior Cloud Engineer at Arena Analytics_
+
+pg33
 
 ## Extra takes
 
@@ -205,7 +221,10 @@ to be able to assess bottlenecks, opportunities for improvement and so forth
 
 ## Actionable takeaways
 
-TODO
+- Promote knowledge sharing
+  - Through chat, e-mail weekly, monthly/weekly sharing video sessions
+- Make the purpose of the DevOps teams very clear
+- Promote autonomy and remove blockers due to approvals or lack of trust (take risks)
 
 > tags: devops; sre; survey;
 
