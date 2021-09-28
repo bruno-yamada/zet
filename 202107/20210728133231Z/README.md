@@ -186,9 +186,20 @@ many of the challenges of those with low level DevOps adoption
 > fails, you built it, you tried it, you learned.
 > _Katharine Yi, Senior Cloud Engineer at Arena Analytics_
 
-pg33
+DevOps might be moving into a more consultative role, where they act more like
+"enablers" and "force multipliers"
 
-## Extra takes
+> Collaboration is expensive. If you need to have real-time discussion and work
+> to get something done, you’ve effectively reduced output by the number of
+> parties involved in that collaboration.
+
+> The reasons that collaboration is required are just as
+> important as the type of collaboration.
+
+> Make the right things easy and the
+right things will happen quickly.
+
+## Extra takes from resources referenced in the reports
 
 ### The Three Ways: Principles underpinnin DevOps
 > ref: https://itrevolution.com/the-three-ways-principles-underpinning-devops/
@@ -221,10 +232,21 @@ to be able to assess bottlenecks, opportunities for improvement and so forth
 
 ## Actionable takeaways
 
+- DevOps were expected to have Developing skills to what was just scripting, we
+  have now moved beyond that to where DevOps requires "people" and "process"
+  skills
 - Promote knowledge sharing
   - Through chat, e-mail weekly, monthly/weekly sharing video sessions
+  - Feedback loops: many teams would be using your infrastructure, tools and
+    automation so it is important to have a proper feedback channel in-place
 - Make the purpose of the DevOps teams very clear
+- Use of internal platforms tailormade to the organization are correlated with
+  high devops adoption
+    - Those platforms need to be managed as an isolated project
 - Promote autonomy and remove blockers due to approvals or lack of trust (take risks)
+  - "Our purpose is not to create roadblocks and say no, it is to figure out how
+    to unblock them and get to the 'yes'"
+- Buy-in from leadership is paramound
 
 > tags: devops; sre; survey;
 
