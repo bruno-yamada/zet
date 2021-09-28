@@ -1,4 +1,4 @@
-# Respect your legacy (software)
+# Respect your legacy (code)
 
 It is very common to find teams that complain about "legacy" code and blame
 issues on "legacy" code, this has always felt weird, because it makes it seems
