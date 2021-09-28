@@ -29,8 +29,9 @@ buy-in from the upper levels, and it is always difficult to push for "improving
 the application" from a technical point of view, when you could just be
 developing more features to bring in potentially more paying customers.
 
-At the end of that week, over the last meeting with the tech leads, that 
+At the end of that week, over the last meeting with the tech leads, that
 "senior developer" said:
+
 > _I can work on this and re-write the application over the weekend_
 
 Now think about how much that means, needless to say the tech leads just
@@ -50,5 +51,4 @@ _to be continued ..._
 
 > uid: 20210928090524Z
 
-> links: 
-
+> links:
