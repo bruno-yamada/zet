@@ -44,6 +44,8 @@ both him and a small team with other 3 developers they had a very subpar proof
 of concept, not ready to replace the entire application, but to only a small
 portion of it.
 
+_to be continued ..._
+
 > tags: legacy-code; development;
 
 > uid: 20210928090524Z
