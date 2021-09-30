@@ -10,7 +10,7 @@
 `Ctrl+x Backspace`: cut from cursor backwards
 `Ctrl+w`: cut word back, one at a time
 
-> tags: bash;
+> tags: bash; terminal;
 
 > uid: 20210930094542Z
 
