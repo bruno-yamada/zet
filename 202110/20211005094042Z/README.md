@@ -7,6 +7,9 @@ you learn from incidents
 - PIR: Post Incident Review
 - 5 Whys
 
+## Root Cause Analysis
+> ref: https://en.wikipedia.org/wiki/Root_cause_analysis
+
 ## 5 Whys
 > ref: https://en.wikipedia.org/wiki/Five_whys
 
@@ -16,6 +19,12 @@ of a problem, and identify that many problems have more than one root cause, 5
 is not the limit, and you can reach more levels and iterations if needed, the
 aim is for the final "Why" to reach a faulty or missing process that can be
 improved.
+
+Main considerations:
+- focus on the process, not the people
+- don't leave any form of human error as the final answer
+- if the investigator lack the knowledge to go beyond a certain level, involve
+  people with the necessary knowledge
 
 eg:
 1. Why? – The battery is dead. (First why)
