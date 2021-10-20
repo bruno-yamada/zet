@@ -232,21 +232,33 @@ to be able to assess bottlenecks, opportunities for improvement and so forth
 
 ## Actionable takeaways
 
-- DevOps were expected to have Developing skills to what was just scripting, we
+- Make the purpose of the DevOps teams very clear
+- DevOps were expected to have scripting skills, then Developing skills, we 
   have now moved beyond that to where DevOps requires "people" and "process"
   skills
 - Promote knowledge sharing
   - Through chat, e-mail weekly, monthly/weekly sharing video sessions
   - Feedback loops: many teams would be using your infrastructure, tools and
     automation so it is important to have a proper feedback channel in-place
-- Make the purpose of the DevOps teams very clear
 - Use of internal platforms tailormade to the organization are correlated with
   high devops adoption
     - Those platforms need to be managed as an isolated project
 - Promote autonomy and remove blockers due to approvals or lack of trust (take risks)
+  - Create automation and guardrails to reduce burden instead of creating barriers
   - "Our purpose is not to create roadblocks and say no, it is to figure out how
     to unblock them and get to the 'yes'"
 - Buy-in from leadership is paramound
+- make as much as possible self-service
+- dont focus on automation to the detriment of team interaction and
+  collaboration
+- Certifications are important for contractors, not so much for internal employees
+- never label blockers as "cultural", because people think culture is
+  "immutable" or hard to change
+- Build proofs of concept, you don't want to have developers reach out for
+  something you don't have in place or don't know how to do, build it, test it,
+  learn it
+- Collaboration can be expensive, so try to have the right type of collaboration
+- Don't assume anything
 
 > tags: devops; sre; survey;
 
