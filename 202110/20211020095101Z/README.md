@@ -1,6 +1,7 @@
-# Quarkus - java stack tailored for GraalVM
+# Quarkus - java stack tailored for speed
 
-Similar to Spring Boot, but optmized for speed and cloud nativeness
+Similar to Spring Boot, but optmized for speed and cloud nativeness, is
+specially effective when combined with GraalVM
 
 > Quarkus tailors your application for GraalVM and HotSpot. Amazingly fast boot
 > time, incredibly low RSS memory (not just heap size!) offering near instant
