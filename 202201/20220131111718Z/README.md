@@ -8,6 +8,7 @@ Similar tools:
 - Terraform sentinel policies (just a language, not very specific or with many built-ins)
 - https://github.com/returntocorp/semgrep (generic, can be used for anything)
 - https://github.com/zricethezav/gitleaks (specific to secrets)
+- https://github.com/gruntwork-io/terratest
 
 Compared to the tools above, checkov has is much more of a ready-to-use tool
 
