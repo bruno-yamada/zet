@@ -1,4 +1,4 @@
-# Docker on macos
+# Docker on MacOS
 
 Docker-Desktop is no longer free on MacOS
 
