@@ -17,6 +17,9 @@ aws ecs execute-command --cluster $ECS_CLUSTER --task $ECS_TASK_ID --container $
 Tool to help debug errors:
 https://github.com/aws-containers/amazon-ecs-exec-checker
 
+Also be aware, if resources are too low, the "Managed Agent" might not be able
+to start
+
 > tags: aws; ecs;
 
 > uid: 20220307151400Z
