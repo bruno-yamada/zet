@@ -7,7 +7,34 @@
 > or leniency. _Abu Ali Al-Hasan Ibn Al Hasan Ibn Al-Haytham(Alhazen)_
 
 Steps:
-- 
+- Make an observation.
+- Ask a question.
+- Form a hypothesis, or testable explanation.
+- Make a prediction based on the hypothesis.
+- Test the prediction.
+- Iterate: use the results to make new hypotheses or predictions.
+
+Example:
+
+- Make an observation.
+  - VIM users work faster
+- Ask a question.
+  - Why do VIM users work faster?
+- Form a hypothesis, or testable explanation.
+  - VIM's shortcuts allows you to edit text faster, and without moving your
+    hands from the keyboard to the mouse
+- Make a prediction based on the hypothesis.
+  (some define it as an IF THEN, IF X THEN Y)
+  - If a user learns VIM, he will work faster too
+- Test the prediction.
+  - If a user learns VIM, he will work faster too
+    - The result will either support or not the hypothesis
+    - The result can vary based 
+- Iterate: use the results to make new hypotheses or predictions.
+
+Terms:
+- Hypothesis
+- Theory
 
 
 Resources:
